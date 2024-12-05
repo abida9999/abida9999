@@ -1,16 +1,8 @@
 
   
 <h1 align="center">Hi 👋! My name is Abida Sultana Liza and I'm from Bangladesh.</h1>
-###
-
 <h1 align="center">Hello World!!</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###

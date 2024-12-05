@@ -4,14 +4,9 @@
 <h1 align="center">Hello World!!</h1>
 <h3 align="left">👩‍💻  About Me</h3>
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <br clear="both">
 
 <h5 align="left">I'm a developer from Bangladesh, currently enhancing my skills in JavaScript, Python, and C++. I enjoy building web applications and exploring new technologies.<br><br>- 🔭 I’m working as a developer<br>- 🌱 I’m currently learning JavaScript, Python, and C++<br>- ⚡ In my free time, I enjoy reading tech blogs, contributing to open-source projects and exploring the latest tech trends.</h5>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
